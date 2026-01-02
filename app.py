@@ -43,6 +43,7 @@ app_mode = st.sidebar.radio("Choose Mode:", ["Single Molecule", "Batch Predictio
 
 # --- MAIN APP ---
 st.title("💊 HDAC1 Inhibitor Predictor developed by MPBSCPER")
+st.warning("⚠️ This tool is part of a manuscript currently under peer review. Data is preliminary.")
 
 if model is None:
     st.error("⚠️ Model files not found! Please upload .pkl files to GitHub.")
