@@ -124,4 +124,4 @@ elif app_mode == "Batch Prediction (CSV)":
             st.error("CSV must contain a 'SMILES' column.")
 
 st.markdown("---")
-st.caption("© 2026 Pharmaceutical Biotechnology Research Lab.")
+st.caption("© Sharav Desai & Shubhada Malode,2026 Pharmaceutical Biotechnology Research Lab.")
