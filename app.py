@@ -7,7 +7,7 @@ from rdkit import Chem
 from rdkit.Chem import AllChem, Descriptors
 
 # --- PAGE CONFIGURATION ---
-st.set_page_config(page_title="HDAC1 Predictor", page_icon="💊", layout="centered")
+st.set_page_config(page_title="HDAC1 Predictor-MPB-SCPER", page_icon="💊", layout="centered")
 
 # --- LOAD ASSETS ---
 @st.cache_resource
