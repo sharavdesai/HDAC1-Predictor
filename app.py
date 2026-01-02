@@ -44,7 +44,7 @@ def calculate_descriptors(smiles):
     return data
 
 # --- GUI LAYOUT ---
-st.title("💊 HDAC1 Inhibitor Predictor")
+st.title("💊 HDAC1 Inhibitor Predictor-MPB-SCPER")
 st.markdown("### Research-Grade Screening Tool")
 st.info("Developed using Random Forest (R²=0.66) on ChEMBL Data.")
 
