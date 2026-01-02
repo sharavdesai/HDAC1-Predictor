@@ -97,4 +97,4 @@ else:
 
 # --- FOOTER ---
 st.markdown("---")
-st.caption("© 2026 Pharmaceutical Biotechnology Research Lab. For academic use only.")
+st.caption("© 2026 Sharavdesai & Shubhada Malode, Pharmaceutical Biotechnology Research Lab.,SCPER, KOPARGAON-423601 For academic use only.")
